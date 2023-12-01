@@ -1,0 +1,2 @@
+tensorflow v 2.02
+kera v3.06
